@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noUnusedLocals": false,
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "types": [
+      "node",
+      "webpack-env"
+    ]
+  }
+}
+
